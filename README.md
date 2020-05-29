@@ -1,2 +1,2 @@
 # MIDAS
-Internship Task
+IIIT Delhi Internship Task
